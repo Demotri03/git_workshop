@@ -1,5 +1,5 @@
 # git_workshop
 # teszt sorok
 # valami
-# random
-# cucc
+# chtfht
+# 16213511
